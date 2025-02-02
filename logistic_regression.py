@@ -6,7 +6,7 @@ import mlx.core as mx
 
 num_features = 100
 num_examples = 1_000
-num_iters = 50_000
+num_iters = 30_000
 lr = 0.1
 
 # True parameters
